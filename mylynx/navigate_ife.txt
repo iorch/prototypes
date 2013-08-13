@@ -1,0 +1,98 @@
+# Command logfile created by Lynx 2.8.7rel.2 (21 Jun 2010)
+# Arg0 = lynx
+# Arg1 = -cmd_script=navigate_ife.txt
+# Arg2 = -cmd_log=log.log 
+# Arg3 = http://listanominal.ife.org.mx/
+key Down Arrow
+key Down Arrow
+key m
+key r
+key o
+key r
+key j
+key r
+key 8
+key 2
+key 1
+key 0
+key 3
+key 0
+key 1
+key 4
+key h
+key 7
+key 0
+key 0
+key Down Arrow
+key 0
+key 1
+key Down Arrow
+key 0
+key 7
+key 3
+key 7
+key 0
+key 8
+key 7
+key 5
+key 0
+key 5
+key 3
+key 5
+key 8
+key ^J
+key ^J
+key ^<FF>
+key p
+key ^J
+key <delete>
+key <delete>
+key <delete>
+key <delete>
+key <delete>
+key <delete>
+key <delete>
+key <delete>
+key <delete>
+key <delete>
+key <delete>
+key <delete>
+key <delete>
+key <delete>
+key <delete>
+key <delete>
+key <delete>
+key <delete>
+key <delete>
+key m
+key r
+key o
+key r
+key j
+key r
+key 8
+key 2
+key 1
+key 0
+key 3
+key 0
+key 1
+key 4
+key h
+key 7
+key 0
+key 0
+key _
+key v
+key e
+key r
+key i
+key f
+key y
+key .
+key t
+key m
+key p
+key ^J
+key q
+key q

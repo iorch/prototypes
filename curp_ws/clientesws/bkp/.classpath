@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="var" path="ECURP_LIBS/dom4j-1.5.2.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/axis2-1.6.2"/>
+	<classpathentry kind="var" path="M2_REPO/dom4j-1.5.2.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/WebServicesConsulta-Web"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
